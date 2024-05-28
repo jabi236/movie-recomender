@@ -5,5 +5,7 @@ To test different movies, change the movie title within the test reccomender fun
 Datasets I used are provided below. You will need to download them to run the code. You may need to change the file paths from the reading in the data portion of the project to read in the data correctly.
 
 MovieLens 20M Dataset: https://www.kaggle.com/datasets/grouplens/movielens-20m-dataset
+
 TMDB Dataset : https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata
+
 The Movies Dataset: https://www.kaggle.com/datasets/rounakbanik/the-movies-dataset
